@@ -1,7 +1,7 @@
-var counting;
+var count;
 
-counting = -3;
-while (counting <= 3) {
+count = -10;
+while (count <= 10) {
   window.alert('Hello World!');
-  counting = counting + 1;
+  count = count + 1;
 }
